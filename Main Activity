@@ -1,0 +1,12 @@
+students = ["Amir","Sarah","Tom","Aisha","Leo"] #original list
+#Task 1
+students.insert(1 ,"Bob")#add 1 name
+students.insert(2,"Fred")#add second name
+#Task 2
+students.remove("Sarah") # removing a student who has left
+#Task 3
+students.insert(0,"Joe")# adding a student to the begining
+#Task4
+students.sort()# sort the things wtithin the list alphabetic order
+#Task5
+print("Current Students =" , students) #printing task4
