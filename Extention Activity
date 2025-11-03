@@ -1,4 +1,4 @@
-colour= ["Green","Red","Blue","Violet","Yellow","Orange","Turquoise","Pink"]
+colour= ["Green","Red","Blue","Violet","Yellow","Orange","Turquoise","Pink"] # I want the user to print the list of the rainbow by removing and adding items.
 print(colour)
 colour.append(input("What is missing?"))
 print(colour)
