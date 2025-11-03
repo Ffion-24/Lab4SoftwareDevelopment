@@ -1,0 +1,9 @@
+colour= ["Green","Red","Blue","Violet","Yellow","Orange","Turquoise","Pink"]
+print(colour)
+colour.append(input("What is missing?"))
+print(colour)
+remove = (input("What is one thing that needs to be removed?"))
+remove2 = (input("What is the second thing that needs to be removed?"))
+colour.remove(remove)
+colour.remove(remove2)
+print(colour)
